@@ -3,7 +3,7 @@ library(tidyverse)    # includes ggplot2, for data visualisation. dplyr, for dat
 library(RColorBrewer) # for a colourful plot
 library(ggrepel)      # for nice annotations
 
-df <- read.csv("C:/Users/USER/Documents/FICHIERS_OMAR/FICHIERS/R_Skills/Genes_Expression.csv", 
+df <- read.csv("#Changer avec chemin d'accès ver Genes_Expression.csv", 
                header = TRUE,           # Si la première ligne contient les noms de colonnes
                sep = ";",               # Séparateur (virgule par défaut)
                dec = ".",               # Séparateur décimal
@@ -53,3 +53,4 @@ ggplot(data = df, aes(x = log2fc, y = -log10(pval), col = diffexpressed, label =
   scale_x_continuous(breaks = seq(-10, 10, 2)) +                  # to custom the x axis
   ggtitle('Thf-like cells in severe COVID vs healthy patients') + # Plot title 
   geom_text_repel(max.overlaps = Inf)   
+
