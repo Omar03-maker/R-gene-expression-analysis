@@ -21,4 +21,4 @@ Ce repository présente des scripts R pour l'analyse d'expression différentiell
 - El Hadji Omar Dia
 - GitHub: @Omar03-maker
 
-#⭐ Si ce projet vous aide dans vos recherches, n'hésitez pas à le ⭐ star !
+# ⭐ Si ce projet vous aide dans vos recherches, n'hésitez pas à le ⭐ star !
