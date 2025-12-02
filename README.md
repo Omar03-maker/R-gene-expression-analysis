@@ -17,8 +17,9 @@ Ce repository présente des scripts R pour l'analyse d'expression différentiell
 - Zone supérieure droite : Gènes significativement surexprimés
 - Zone supérieure gauche : Gènes significativement sous-exprimés
 - Zone centrale : Gènes non différentiellement exprimés
-## 👤 Auteur
+## Auteur
 - El Hadji Omar Dia
 - GitHub: @Omar03-maker
+- Mail: elhadjiomardia@esp.sn
 
 # Si vous trouver ce projet intéressant, n'hésitez pas à lui donner une étoile ⭐ !
